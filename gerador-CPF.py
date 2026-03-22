@@ -1,10 +1,10 @@
 '''
   -------------------- Gerador de CPF ------------------
 
-  -> Este script foi feito para fins educativos.
+  -> Feito para fins educativos.
    __author__ = LouizF
    __License__ = GPLv3
-   __GitHub__ = github.com/TronGuy
+   __GitHub__ = github.com/lfbyte
 
 '''
 from random import randint
